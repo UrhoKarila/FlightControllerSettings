@@ -1,0 +1,15 @@
+More Massive Droner 3" frame
+
+Stack:
+	Hobbywing nano 4-in-1 20A ESC
+	-------"------ F4 flight controller, nano
+	HGLRC XJB-TX20 V2 Mini FPV Transmitter 
+
+Runcam Micro Swift 2 - 2.1mm Lens
+BrotherHobby Avenger 1507-3600KV
+FrSky XM+ SBUS Mini Receiver
+
+Batteries: TATTU R-Line 850mAh 4s 95C Lipo Battery (XT-30)
+
+
+Gemfan 3052 3" props
